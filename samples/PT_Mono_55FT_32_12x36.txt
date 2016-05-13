@@ -1,0 +1,1 @@
+./fontgen -v --from 0 --to 255 --dpi 72 --hdpi 46 -R 2bit -W c-raw 32 PT-Mono-55FT.ttf
