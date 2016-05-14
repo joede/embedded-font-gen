@@ -34,3 +34,8 @@ can be scaled by using the *DPI* settings.
 To create a font with a specific pixel size, use the parameter `--check` and
 try to get a result by variing *size* which is near by the size you need.
 After that, use `--dpi 72` and `--hdpi` to get the aspect ratio you need.
+
+
+## License
+
+This project is licend under the GPL V3.
