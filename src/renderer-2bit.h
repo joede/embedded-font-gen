@@ -1,10 +1,10 @@
 /* -*- Mode: C -*-
  * --------------------------------------------------------------------------
- * Copyright  (c) Völker Video- und Datentechnik GmbH
+ * Copyright  (c) Joerg Desch <github.de>
  * --------------------------------------------------------------------------
  * PROJECT: FONT Generator
  * MODULE.: renderer-2bit.h
- * AUTHOR.: Dipl.-Ing. Joerg Desch
+ * AUTHOR.: Joerg Desch
  * CREATED: 09.05.2016 10:39:53 CEST
  * --------------------------------------------------------------------------
  * DESCRIPTION:

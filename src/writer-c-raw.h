@@ -1,10 +1,10 @@
 /* -*- Mode: C -*-
  * --------------------------------------------------------------------------
- * Copyright  (c) Völker Video- und Datentechnik GmbH
+ * Copyright  (c) Joerg Desch <github.de>
  * --------------------------------------------------------------------------
  * PROJECT: FONT Generator
  * MODULE.: writer-c-raw.h
- * AUTHOR.: Dipl.-Ing. Joerg Desch
+ * AUTHOR.: Joerg Desch
  * CREATED: 09.05.2016 11:19:03 CEST
  * --------------------------------------------------------------------------
  * DESCRIPTION:
