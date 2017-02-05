@@ -8,7 +8,7 @@ displays.
 The converter uses the FreeType2 library to render the bitmaps of the
 glyphs. Static plugins of so called "renderer" and "writer" provides
 additional steps to get glyph bitmaps rendered into equal sized
-bitmap matrices. The writeres stores the rendered matrices into files.
+bitmap matrices. The writers stores the rendered matrices into files.
 
 ## The Plugins
 
@@ -32,10 +32,10 @@ the resulting in pixel. Instead the size in *points* is used. This size
 can be scaled by using the *DPI* settings.
 
 To create a font with a specific pixel size, use the parameter `--check` and
-try to get a result by variing *size* which is near by the size you need.
+try to get a result by varying *size* which is near by the size you need.
 After that, use `--dpi 72` and `--hdpi` to get the aspect ratio you need.
 
 
 ## License
 
-This project is licend under the GPL V3.
+This project is licensed under the GPL V3.
